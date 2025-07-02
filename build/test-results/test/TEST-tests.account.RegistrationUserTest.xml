@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.account.RegistrationUserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-07-02T15:27:00" hostname="DESKTOP-9I3SV8I" time="49.063">
+  <properties/>
+  <testcase name="User registration" classname="tests.account.RegistrationUserTest" time="49.063"/>
+  <system-out><![CDATA[2025-07-02 23:27:00 INFO  BaseTest - Driver initializing before test
+
+2025-07-02 23:27:09 INFO  Initializer - Successful initialization
+2025-07-02 23:27:11 INFO  BaseTest - !!!Starting the TEST!!!
+
+2025-07-02 23:27:19 INFO  HomeScreen - Advertisement: closed
+2025-07-02 23:27:25 INFO  HomeScreen - Spinning wheel: skipped
+2025-07-02 23:27:27 INFO  HomeScreen - Profile screen: opened
+2025-07-02 23:27:29 INFO  ProfileScreen - Login profile: opened
+2025-07-02 23:27:31 INFO  ProfileScreen - Sign up with email: Accepted
+2025-07-02 23:27:45 INFO  SignUpPopUpScreen - Registration: User 'email20250702232700@test.ru' successful
+2025-07-02 23:27:46 INFO  SignUpPopUpScreen - System login: completed
+2025-07-02 23:27:48 INFO  SignUpPopUpScreen - Verified 'Bob Eastwood' text is visible
+2025-07-02 23:27:48 INFO  BaseTest - Driver closing after test
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

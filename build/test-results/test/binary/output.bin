@@ -1,0 +1,15 @@
+E2025-07-02 23:27:00 INFO  BaseTest - Driver initializing before test
+
+C2025-07-02 23:27:09 INFO  Initializer - Successful initialization
+=2025-07-02 23:27:11 INFO  BaseTest - !!!Starting the TEST!!!
+
+>2025-07-02 23:27:19 INFO  HomeScreen - Advertisement: closed
+@2025-07-02 23:27:25 INFO  HomeScreen - Spinning wheel: skipped
+?2025-07-02 23:27:27 INFO  HomeScreen - Profile screen: opened
+A2025-07-02 23:27:29 INFO  ProfileScreen - Login profile: opened
+H2025-07-02 23:27:31 INFO  ProfileScreen - Sign up with email: Accepted
+k2025-07-02 23:27:45 INFO  SignUpPopUpScreen - Registration: User 'email20250702232700@test.ru' successful
+G2025-07-02 23:27:46 INFO  SignUpPopUpScreen - System login: completed
+W2025-07-02 23:27:48 INFO  SignUpPopUpScreen - Verified 'Bob Eastwood' text is visible
+?2025-07-02 23:27:48 INFO  BaseTest - Driver closing after test
+
